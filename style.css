@@ -294,6 +294,9 @@ section .button button:hover{
   font-weight: 500;
   margin:0 6px;
 }
+.skills .ulist {
+  margin-left: 50px;
+}
 .skills-details .boxes{
   width:45%;
   display:flex;
